@@ -1,5 +1,12 @@
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [YOUR NAME]
-description: [Turning Data into Insights]
+# 📌 Gaurang Valand – Web Developer & MCA Student
+
+| **Section**            | **Details** |
+|-------------------------|-------------|
+| **About Me** | I am a motivated MCA student passionate about **web development, database management, and data analytics**. I enjoy building responsive, user-friendly applications and designing efficient database solutions. My goal is to contribute to **innovative and reliable software projects** while continuously learning new technologies. |
+| **Skills** | - **Web Development:** HTML, CSS, JavaScript, PHP <br> - **Programming:** C, C++ <br> - **Databases:** MySQL, MongoDB <br> - **Tools & Platforms:** Canva, Windows, MacOS <br> - **Soft Skills:** Teamwork, Leadership, Time Management, Communication, Critical Thinking |
+| **Work Experience** | *Currently seeking industry opportunities* |
+| **Projects** | **Resort Management System (Visual Basic)** <br> • Developed separate **Admin & User modules** for managing resort bookings. <br> • Implemented a **database-driven booking system** to improve efficiency. <br><br> **Online Event Booking System (PHP, MySQL)** <br> • Built an online event booking platform with **Admin & User features**. <br> • Integrated secure authentication and database management for smooth operations. |
+| **Education** | 🎓 Master of Computer Application (MCA), CVM University – *2024–2026 (Pursuing)* <br> 🎓 Bachelor of Computer Application (BCA), HNG University – *2021–2024* (CGPA: 7.33) |
+| **Certifications** | - IBM: **Python for Data Science** (Data handling, Pandas, NumPy, Visualization) <br> - IBM: **Data Analysis with Python** (Data cleaning, EDA, Statistical analysis) |
+| **Languages** | English, Hindi, Gujarati |
+| **Contact / Links** | 📧 Email: [valandgaurang8055@gmail.com](mailto:valandgaurang8055@gmail.com) <br> 🔗 LinkedIn: [linkedin.com/in/gaurang-valand](https://www.linkedin.com/in/gaurang-valand) <br> 💻 GitHub: *Add your GitHub profile link here* <br> 📍 Location: Gujarat, India |
